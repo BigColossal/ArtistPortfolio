@@ -20,6 +20,8 @@ My first HTML/CSS project! This one being a handcrafted HTML/CSS portfolio for J
 
 ## Getting Started
 
+Enter the website at [Artist Portfolio](https://bigcolossal.github.io/ArtistPortfolio/)
+
 ## Features
 - Semantic and responsive HTML5 and CSS structure and styling
 - Google Fonts Integration
